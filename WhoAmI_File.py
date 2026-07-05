@@ -1,5 +1,4 @@
-
-
+import numpy as np
 
 def WhoAmI():
-    return('djr2132')
+    return str(np.array(['zy2775'])[0])
